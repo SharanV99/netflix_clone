@@ -301,12 +301,14 @@ img {
   font-size: 1.6rem;
   padding: 1.5rem 2.1rem;
   text-transform: uppercase;
+  border-radius: 10px;
 }
 
 .btn-lg {
   font-size: 1.5rem;
   padding: 1.2rem 1.7rem;
   text-transform: uppercase;
+  border-radius: 10px;
 }
 
 .btn-icon {
